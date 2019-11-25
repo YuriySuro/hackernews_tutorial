@@ -1,5 +1,5 @@
 export const singularStory = {
-    by: 'Karl Hadwen',
+    by: ' Karl Hadwen',
     id: 1,
     time: 1567209822,
     title: 'Tarnished: Google Responds',
